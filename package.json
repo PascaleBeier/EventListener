@@ -1,0 +1,9 @@
+{
+  "name": "EventListener",
+  "version": "1.0.0",
+  "description": "EventListener Polyfill",
+  "main": "EventListener.js",
+  "repository": "git@github.com:PascaleBeier/EventListener.git",
+  "author": "Pascale Beier <mail@pascalebeier.de>",
+  "license": "MIT"
+}
